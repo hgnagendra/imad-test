@@ -1,4 +1,4 @@
-good() {
+function good() {
 	console.log("Nice gooding job");
 }
 
