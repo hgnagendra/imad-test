@@ -3,5 +3,7 @@ function good() {
 }
 
 console.log("hellow nagendra");
+console.log("bug fixed");
+
 good();
 
