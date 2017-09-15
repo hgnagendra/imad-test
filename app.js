@@ -1,6 +1,6 @@
 function BigNewFeature(){
 	console.log("Write a log of code");
-	console.log("I am half way done with new feature");
+	console.log("I am completely done with new feature");
 }
 
 
